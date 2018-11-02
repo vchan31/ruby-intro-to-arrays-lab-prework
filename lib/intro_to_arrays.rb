@@ -10,3 +10,7 @@ def first_element (array1)
   return array1[0]
 
 end
+
+def third_element (array1)
+  return array1[2]
+end
