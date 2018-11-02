@@ -1,3 +1,4 @@
-def instantiate_new_array(array)
-  return array = []
+def instantiate_new_array(array1)
+  array = []
+    return array1
 end
