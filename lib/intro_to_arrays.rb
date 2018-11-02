@@ -1,3 +1,3 @@
 def instantiate_new_array(Array)
-  Array = []
+  return Array = []
 end
