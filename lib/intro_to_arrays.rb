@@ -6,6 +6,7 @@ def array_with_two_elements
   return ['Go', 'Fish']
 end
 
-def first_element 
+def first_element (array1)
+  return array1[0]
 
 end
