@@ -20,5 +20,5 @@ def last_element (array1)
 end
 
 def first_element_with_array_methods (array1)
-  return 
+  return array1.first
 end
